@@ -1,7 +1,7 @@
-package com.alibou.websocket.config;
+package ru.wanderror.websocket.config;
 
-import com.alibou.websocket.chat.ChatMessage;
-import com.alibou.websocket.chat.MessageType;
+import ru.wanderror.websocket.chat.ChatMessage;
+import ru.wanderror.websocket.chat.MessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
