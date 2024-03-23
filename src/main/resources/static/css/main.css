@@ -128,7 +128,7 @@ button.accent {
 }
 
 .chat-container {
-    max-width: 700px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
     background-color: #fff;
@@ -150,14 +150,14 @@ button.accent {
 }
 
 #chat-page #messageForm {
-    padding: 20px;
+    padding: 30px;
 }
 
 #chat-page ul li {
-    line-height: 1.5rem;
-    padding: 10px 20px;
+    line-height: 0.8rem;
+    padding: 5px 20px;
     margin: 0;
-    border-bottom: 1px solid #f4f4f4;
+    border-bottom: 0.1px solid #f4f4f4;
 }
 
 #chat-page ul li p {
@@ -166,18 +166,18 @@ button.accent {
 
 #chat-page .event-message {
     width: 100%;
-    text-align: center;
+    text-align: left;
     clear: both;
 }
 
 #chat-page .event-message p {
     color: #777;
-    font-size: 14px;
+    font-size: 12px;
     word-wrap: break-word;
 }
 
 #chat-page .chat-message {
-    padding-left: 68px;
+    padding-left: 10px;
     position: relative;
 }
 
